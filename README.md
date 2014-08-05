@@ -5,7 +5,7 @@ A tool to extract the timestamp from a PE file.
 
 ### Application Type ###
 
-* Console application.
+* Console application
 * MVP
 
 ### Dependencies ###
